@@ -1,4 +1,4 @@
-# static_data_viz
+# Debt Imprisonment Data Visualizations
 
 *Will change name and make repo public once project data is finalized*
 
