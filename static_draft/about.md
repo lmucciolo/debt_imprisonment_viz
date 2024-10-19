@@ -86,7 +86,7 @@ within that population between 2010 and 2017. On the other hand, Hispanic
 individuals are underrepresented. These findings are similar to those we saw in 
 image 6 for Texas.
 
-![](fig8.png7)
+![](fig7.png)
 
 ### Image 8
 
