@@ -3,12 +3,11 @@
 
 CAPP 30239: Data Visualization for Policy Analysis
 
-
 ## Description
 a description of your project
 
 ## Screenshot of final product
-an embedded screenshot of your final project
+![](infographic_screenshot.png)
 
 ## Data Sources
 section that cites all sources and explains data usage/licenses
