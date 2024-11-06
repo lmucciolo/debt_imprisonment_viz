@@ -3,9 +3,6 @@
 
 CAPP 30239: Data Visualization for Policy Analysis
 
-*Will make repo public once project data is finalized*
-
-**TO-DO:**
 
 ## Description
 a description of your project
@@ -18,3 +15,4 @@ section that cites all sources and explains data usage/licenses
 
 ## Acknowledgements
 
+Thank you to the course staff and classmates for their valuable feedback.
